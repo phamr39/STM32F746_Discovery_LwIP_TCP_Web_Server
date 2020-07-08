@@ -1,8 +1,8 @@
 # STM32F76_Discovery_iwIP_TCP_Web_Server
 This repo has features below:
-Create a web server (DCHP Server)
-Create a TCP Server.
-If the data is sent from one TCP client (like PC,..), STM32F7 will send them back and display it into the screen.
+-Create a demo web server (DCHP Server)
+-Create a TCP Server.
+-If the data is sent from one TCP client (like PC,..), STM32F7 will send them back and display it into the screen.
 ------------------------------------------------------------------------------------------
 To use this code, please follow these steps:
 1, Get full libraries and examples, templates:
