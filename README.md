@@ -1,4 +1,4 @@
-# STM32F76_Discovery_iwIP_TCP_Web_Server
+# STM32F76_Discovery_LwIP_TCP_Web_Server
 This repo has features below:<br/>
 -Create a demo web server (DCHP Server)<br/>
 -Create a TCP Server.<br/>
